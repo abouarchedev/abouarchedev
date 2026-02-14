@@ -60,15 +60,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abouarchedev&show_icons=true&hide_border=true&theme=github_dark"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abouarchedev&hide_border=true&theme=github-dark"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abouarchedev&show_icons=true&hide_border=true&theme=github_dark" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abouarchedev&hide_border=true&theme=github-dark" height="170" />
+
 </p>
 
 
