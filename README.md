@@ -68,6 +68,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake animation](https://raw.githubusercontent.com/abouarchedev/abouarchedev/output/snake.svg)
+![snake](https://raw.githubusercontent.com/abouarchedev/abouarchedev/output/snake.svg?v=1)
+
 
 ---
