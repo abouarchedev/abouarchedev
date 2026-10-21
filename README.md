@@ -103,9 +103,12 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 ## 🤝 Connect With Me
 
 <div align="center">
-
+<a href="https://www.linkedin.com/in/aymen-abouarche-ba1971434/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+ 
 <a href="https://github.com/abouarchedev">
-<img src="https://img.shields.io/badge/GitHub-Profile-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<img src="https://img.shields.io/badge/GitHub-Profile-84b79f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 </div>
