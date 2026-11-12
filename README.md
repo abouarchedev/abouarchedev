@@ -80,13 +80,17 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abouarchedev&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="./profile-summary-card-output/chartreuse-dark/0-profile-details.svg" alt="Profile Details" />
+<img width="49%" src="./profile-summary-card-output/chartreuse-dark/1-repos-per-language.svg" alt="Repos per Language" />
+<img width="49%" src="./profile-summary-card-output/chartreuse-dark/2-most-commit-language.svg" alt="Most Commit Language" />
+<img width="49%" src="./profile-summary-card-output/chartreuse-dark/3-stats.svg" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abouarchedev&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+<br/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abouarchedev&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most Used Languages" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abouarchedev&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
