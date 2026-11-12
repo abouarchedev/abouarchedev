@@ -80,10 +80,10 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 
 <div align="center">
 
-<img width="49%" src="./profile-summary-card-output/chartreuse-dark/0-profile-details.svg" alt="Profile Details" />
-<img width="49%" src="./profile-summary-card-output/chartreuse-dark/1-repos-per-language.svg" alt="Repos per Language" />
-<img width="49%" src="./profile-summary-card-output/chartreuse-dark/2-most-commit-language.svg" alt="Most Commit Language" />
-<img width="49%" src="./profile-summary-card-output/chartreuse-dark/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="./profile-summary-card-output/vue-dark/0-profile-details.svg" alt="Profile Details" />
+<img width="49%" src="./profile-summary-card-output/vue-dark/1-repos-per-language.svg" alt="Repos per Language" />
+<img width="49%" src="./profile-summary-card-output/vue-dark/2-most-commit-language.svg" alt="Most Commit Language" />
+<img width="49%" src="./profile-summary-card-output/vue-dark/3-stats.svg" alt="GitHub Stats" />
 
 <br/>
 
