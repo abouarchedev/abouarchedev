@@ -80,14 +80,13 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abouarchedev&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abouarchedev&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abouarchedev&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouarchedev&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abouarchedev&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most Used Languages" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
