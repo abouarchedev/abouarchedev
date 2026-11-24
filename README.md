@@ -67,7 +67,7 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 
 <p align="center">
   <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma,pandas" alt="Figma Pandas" height="50" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" />
   </a>
 </p>
 
