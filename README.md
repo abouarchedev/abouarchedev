@@ -52,12 +52,12 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript" />
 </p>
 
 ### ⚙️Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" alt="PHP Laravel Node.js Python " />
+<img src="https://skillicons.dev/icons?i=php,laravel,python" alt="PHP Laravel Python " />
 
 ### 🗄️ Database & Tools
 
@@ -67,7 +67,7 @@ Hi! I'm **AbouarcheDev**, a Junior Full-Stack Developer passionate about web dev
 
 <p align="center">
   <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" />
+    <img src="https://skillicons.dev/icons?i=figma,pandas" alt="Figma Pandas" height="50" />
   </a>
 </p>
 
